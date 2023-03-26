@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SocketsSpringApplication<sockets-spring>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.thegeekyasian.SocketsSpringApplication",
+            "projectName": "sockets-spring",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SocketsSpringApplication<sockets-spring>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.demo.SocketsSpringApplication",
+            "projectName": "sockets-spring",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
